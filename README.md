@@ -1,7 +1,6 @@
 
 # Chlorophyll Prediction (Lake Baikal)
 > Bachelor thesis project (MIPT, Kurchatov Institute)
-Ссылка на бакалаврскую дипломную работу
 [https://docs.google.com/document/d/1uOPcvzsneBjZ42Ov2PjjEbCdvmJE9TUj_x4d5OIkXXw/edit?usp=sharing](https://docs.google.com/document/d/1GxfzwG4UTT0rQZT3qkBKxI1FaWU1H_b72yeKGlTHHFk/edit?tab=t.0)
 
 ## Overview
